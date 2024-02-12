@@ -1,4 +1,4 @@
- #### Olá pessoal, meu nome é Aironys, sou formado em Ciência da computação, curso técnico em redes de computadores e se especializando atualmente em Desenvolvimento Web. Sou uma pessoa determinada em aprender e conhecer novos desafios. Procurando sempre uma solução para resolver os problemas. Tenho pontos fortes em atendimento ao cliente e vendas. E sempre procuro conhecer pessoas e culturas diferentes. 
+ #### Sou um profissional dedicado com experiência em desenvolvimento web e análise de dados. Possuo habilidades técnicas sólidas em HTML, CSS, JavaScript, SQL e Python. Com um ano de experiência como Analista de Dados Júnior, destaco-me na utilização de plataformas digitais como Google Analytics, Facebook Analytics, Google Ads e Bing para análise de dados e geração de insights valiosos para os clientes.
 <div align="center">
   <a href="https://github.com/Aironys1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aironys1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
